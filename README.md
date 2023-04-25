@@ -9,5 +9,7 @@
 ```document.querySelector("#idName")``` - the (first) element with the particular css selector. <br />
 ```document.getElementsByTagName("tagName")``` - all the elements with the particular tag name. <br />
 ```document.querySelectorAll("tagName")``` - all the elements with the particular css selector. <br />
+```document.getElementsByClassName("className")``` - all the elements with the particular class name. <br />
+```document.querySelectorAll(".className")``` - all the elements with the particular css selector <br />
 
 
